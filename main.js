@@ -20,3 +20,6 @@ function forgot() {
 function home() {
 	window.location.assign("index.html");
 }
+function storia() {
+	window.location.assign("../storia.html");
+}

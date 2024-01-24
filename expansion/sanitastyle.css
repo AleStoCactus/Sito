@@ -16,15 +16,10 @@ body p {
 	text-align: justify;
 }
 
-body a {
-	color: black;
-	font-style: italic;
-}
-
 .main {
 	text-align: justify;
 	align-content: center;
-	height: 1360px;
+	height: 500px;
 	width: 800px;
     background: white;
     border: 2px solid rgba(255, 255, 255, .2);
@@ -34,7 +29,7 @@ body a {
     padding: 30px 40px;
 }
 .main h1 {
-	text-shadow: 0px 0px 8px red;
+	text-shadow: 0px 0px 8px yellow;
 	font-family: "Kanit", sans-serif;
   	font-weight: 900;
   	font-style: italic;
