@@ -19,7 +19,7 @@ body p {
 .main {
 	text-align: justify;
 	align-content: center;
-	height: 500px;
+	height: 1000px;
 	width: 800px;
     background: white;
     border: 2px solid rgba(255, 255, 255, .2);
@@ -101,4 +101,13 @@ body p {
 	font-family: "Kanit", sans-serif;
   	font-weight: 400;
   	font-style: regular;
+}
+.img {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.img img {
+	width:500px;
+	height:500px;
 }
