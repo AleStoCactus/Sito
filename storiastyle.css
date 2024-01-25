@@ -107,3 +107,7 @@ body a {
   	font-weight: 400;
   	font-style: regular;
 }
+
+@media screen and (max-width: 600px) {
+	
+}
