@@ -45,10 +45,11 @@ body a {
 	left: 0;
 	width: 100%;
 	align-content: flex-start;
-	background: transparent;
+	background: url("img/cover.jpg") no-repeat;
+	background-position: 60% 40%;
 	border-radius: 15px;
 	backdrop-filter: blur(20px);
-	box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+	box-shadow: 0 0 8px black;
 	padding: 5px 0;
 }
 .homelink {
@@ -71,11 +72,11 @@ body a {
   	font-weight: 800;
   	font-style: italic;
   	font-size: 35px;
-  	text-shadow: 1px 2px 8px darkred;
+  	text-shadow: 1px 2px 8px red;
 	padding: 0px 300px 0px 300px;
 }
 #home:hover {
-	color: darkred;
+	color: red;
 	text-decoration: underline;
 	cursor: pointer;
 }
