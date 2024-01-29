@@ -19,7 +19,7 @@ body p {
 .main {
 	text-align: justify;
 	align-content: center;
-	height: 1850px;
+	height: 1780px;
 	width: 800px;
     background: white;
     border: 2px solid rgba(255, 255, 255, .2);
@@ -123,4 +123,59 @@ body p {
 .img img {
 	width:500px;
 	height:500px;
+}
+
+.image1 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 110px;
+    left: 6%;
+	border-radius: 15px;
+}
+.image2 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 110px;
+    left: 78%;
+	border-radius: 15px;
+}
+.image3 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 510px;
+    left: 6%;
+	border-radius: 15px;
+}
+.image4 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 510px;
+    left: 78%;
+	border-radius: 15px;
+}
+.image5 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 910px;
+    left: 6%;
+	border-radius: 15px;
+}
+.image6 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 910px;
+    left: 78%;
+	border-radius: 15px;
 }
