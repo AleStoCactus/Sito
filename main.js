@@ -11,6 +11,17 @@ function auth() {
 		return;
 	}
 }
+function ale() {
+	var immagini = document.getElementById("ale");
+	if (immagini.style.display != "none") {
+		immagini.style.display = "none";
+	} else {
+		immagini.style.display = "block";
+	}
+}
+function lobotomia() {
+	alert("sono le ore di quest'ora e il giorno di oggi\n\nFIRE IN THE HOLE");
+}
 function lag() {
 	alert("Non e'.. poss.. ch... sono.. riusc. to.. a.. fare... quest.. sito..")
 }

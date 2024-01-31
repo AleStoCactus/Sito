@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: black;
+}
+
+body p {
+	text-align: justify;
+}
+
+.main {
+	text-align: justify;
+	align-content: center;
+	height: 1950px;
+	width: 800px;
+    background: white;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 20px 2px white;
+    border-radius: 10px;
+    padding: 30px 40px;
+}
+.main h1 {
+	text-shadow: 0px 0px 8px yellow;
+	font-family: "Kanit", sans-serif;
+  	font-weight: 900;
+  	font-style: italic;
+}
+.main li {
+	text-align: justify;
+	margin-right: 300px;
+}
+.home {
+	top: 0;
+	left: 0;
+	width: 100%;
+	align-content: flex-start;
+	background: url("../img/cover.jpg") no-repeat;
+	background-position: 60% 40%;
+	border-radius: 15px;
+	backdrop-filter: blur(20px);
+	box-shadow: 0 0 8px black;
+	padding: 5px 0;
+}
+.homelink {
+	display: inline-block;
+	margin: 0 10px 0 10px ;
+}
+#logo1 {
+	width: 100px;
+	border-radius: 20px;
+	box-shadow: 0px 0px 10px green;
+	margin-top: 150px 150px;
+	margin-left: 50px;
+}
+#logo1:hover {
+	box-shadow: 0px 0px 12px red;
+	cursor: pointer;
+}
+#home {
+	font-family: "Kanit", sans-serif;
+  	font-weight: 800;
+  	font-style: italic;
+  	font-size: 35px;
+  	text-shadow: 1px 2px 8px red;
+	padding: 0px 300px 0px 300px;
+}
+#home:hover {
+	color: red;
+	text-decoration: underline;
+	cursor: pointer;
+}
+#nome {
+	display: flex;
+	justify-content: right;
+	align-items: right;
+	font-family: "Kanit", sans-serif;
+  	font-weight: 800;
+  	font-style: italic;
+  	text-shadow: 1px 2px 8px green;
+}
+#nome:hover {
+	color: green;
+	text-decoration: underline;
+	cursor: wait;
+}
+#date {
+	display: flex;
+	justify-content: right;
+	align-items: right;
+	font-family: "Kanit", sans-serif;
+  	font-weight: 800;
+  	font-style: italic;
+  	text-shadow: 0px 1px 4px green;
+}
+.main p {
+	font-family: "Kanit", sans-serif;
+  	font-weight: 400;
+  	font-style: regular;
+}
+#img1 {
+	display: block;
+	justify-content: center;
+	align-items: center;
+	margin-left: auto;
+	margin-right: auto;	
+	width:500px;
+	height:200px;
+}
+.img {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.img img {
+	width:500px;
+	height:500px;
+}
+
+.image1 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 110px;
+    left: 6%;
+	border-radius: 15px;
+}
+.image2 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 110px;
+    left: 78%;
+	border-radius: 15px;
+}
+.image3 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 510px;
+    left: 6%;
+	border-radius: 15px;
+}
+.image4 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 510px;
+    left: 78%;
+	border-radius: 15px;
+}
+.image5 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 910px;
+    left: 6%;
+	border-radius: 15px;
+}
+.image6 {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 910px;
+    left: 78%;
+	border-radius: 15px;
+}
