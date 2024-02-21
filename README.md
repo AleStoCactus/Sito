@@ -10,7 +10,7 @@ Password: admin
 
 This is a Computer Science/History assignment, which is to create a site about the Industrial Revolution :D
 
-WARNING!!! The site doesn't contain a database where you can create or save your accounts, so you can find the main data by clicking "Forgot password?" or "Forgot password?", clicked you will get a popup where it tells you all the data, in case it doesn't work these are the data:
+WARNING!!! The site doesn't contain a database where you can create or save your accounts, so you can find the main data by clicking "Forgot password?", clicked you will get a popup where it tells you all the data, in case it doesn't work these are the data:
 Username: 12345
 Password: admin
 
