@@ -1,4 +1,4 @@
-🇮🇹 Italiano 🇮🇹
+# 🇮🇹 Italiano 🇮🇹
 
 Questo è un compito di Informatica/Storia, cioè creare un sito sulla rivoluzione industriale :D
 
@@ -6,7 +6,7 @@ ATTENZIONE!!!: Il sito non contiene un database dove creare o salvare i vostri a
 Username: 12345
 Password: admin
 
-🇬🇧 British/American 🇺🇸
+# 🇬🇧 British/American 🇺🇸
 
 This is a Computer Science/History assignment, which is to create a site about the Industrial Revolution :D
 
